@@ -97,3 +97,5 @@ with tab3:
     sns.barplot(data=avg_values, x=selected_index, y="Область", ax=ax, palette="rocket")
     ax.set_title(f"Середній {selected_index} по всіх областях")
     st.pyplot(fig)
+
+#hello
