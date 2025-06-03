@@ -1,0 +1,26 @@
+# Середовище
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+df/
+
+# Лаби
+KohtaLab3/*
+KohtaLab4/*
+!KohtaLab3/
+!KohtaLab3/KohtaLab3*
+!KohtaLab4/
+!KohtaLab4/KohtaLab4*
